@@ -4,4 +4,5 @@ myvenv
 kmader/food41
 datasets
 food41_split
+food41_split_limited
 submission.txt
